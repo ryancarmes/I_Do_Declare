@@ -1,0 +1,21 @@
+var num1 = 44;
+var num2 = 42;
+var num3 = -7;
+var num4 = 1;
+var string1 = "I";
+var string2 = "Do";
+var string3 = "Declare";
+var boolean1 = true;
+var boolean2 = false;
+var undefined;
+
+console.log("The first number", num1);
+console.log("The second number", num2);
+console.log("The third number", num3);
+console.log("The fourth number", num4);
+console.log("The first string", string1);
+console.log("The second string", string2);
+console.log("The third string", string3);
+console.log("The first boolean", boolean1);
+console.log("The second boolean", boolean2);
+console.log("The first undefined", undefined);
